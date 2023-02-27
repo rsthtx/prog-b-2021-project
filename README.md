@@ -4,3 +4,18 @@ Shared git project
 
 - stou
 - homohenning2345
+
+
+# Projektstyring
+
+## Done
+- [x] Create shared git repo
+
+## In progress
+
+
+## Todo
+
+
+## Icebox
+- [ ] Demonstrer textbaseret kanban board
