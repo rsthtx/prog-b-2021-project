@@ -10,12 +10,12 @@ Shared git project
 
 ## Done
 - [x] Create shared git repo
+- [x] Add godot code
 
 ## In progress
 
-
 ## Todo
-
+- [ ] Change player color
 
 ## Icebox
 - [ ] Demonstrer textbaseret kanban board
