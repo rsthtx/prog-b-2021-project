@@ -1,10 +1,5 @@
 # prog-b-2021-project
-Shared git project 
-   Jacob was here
-
-- stou
-- homohenning2345
-
+Shared git project
 
 # Projektstyring
 
