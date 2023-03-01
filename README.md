@@ -11,6 +11,7 @@ Shared git project
 ## Done
 - [x] Create shared git repo
 - [x] Add godot code
+- [x] Enable github pages
 
 ## In progress
 
